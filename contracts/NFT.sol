@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: SEE LICENSE IN LICENSE
 pragma solidity ^0.8.27;
 
-contract DMark {
+contract NFTMarket {
     address public owner;
     address public buyer;
 
